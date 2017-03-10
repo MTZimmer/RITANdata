@@ -1,7 +1,7 @@
 Package: RITANdata
 Type: Package
 Title: This package contains the annotation and network data sets
-Version: 0.99.2
+Version: 0.99.3
 Date: 2016-07-28
 Author: Michael Zimmermann
 Maintainer: Michael Zimmermann <zimmermann.michael@mayo.edu>
