@@ -13,6 +13,6 @@ Depends: R (>= 3.3)
 License: file LICENSE
 RoxygenNote: 5.0.1
 LazyData: TRUE
-biocViews: Annotation Data
+biocViews: Annotation Data, Network, NetworkInference, GeneSetEnrichment
 NeedsCompilation: no
 Packaged: 2017-02-01 02:26:00 UTC; m107607
