@@ -29,4 +29,3 @@ print(names(network_list))
 Michael T Zimmermann
 }
 \keyword{datasets}
-
