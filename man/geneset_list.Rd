@@ -4,7 +4,7 @@
 \name{geneset_list}
 \alias{geneset_list}
 \title{geneset_list.RData}
-\format{A \code{list} with 15 elements, one for each annotation warehouse. Each element contains a varying number of vectors of gene symbols.}
+\format{A \code{list} with one element for each annotation resource. Each element contains a varying number of gene symbols.}
 \source{
 Multiple sources used. See our table in the network vignette.
 }
@@ -15,7 +15,7 @@ geneset_list
 A list of resources. Each resource contains a list of genesets.
 }
 \description{
-R list object containing 15 annotation resources and the gene sets contained in each of them.
+R list object containing annotation resources and the gene sets contained in each of them.
 }
 \examples{
 print(names(geneset_list))
@@ -24,3 +24,4 @@ print(names(geneset_list))
 Michael T Zimmermann
 }
 \keyword{datasets}
+
