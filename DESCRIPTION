@@ -10,7 +10,7 @@ Description: Data such as is contained in these two R data files in this
     See the RITAN vignettes for more information.
 LazyData: TRUE
 Depends:
-    R (>= 3.4)
+    R (>= 3.3)
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
 License: file LICENSE
