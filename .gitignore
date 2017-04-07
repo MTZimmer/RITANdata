@@ -1,4 +1,6 @@
 .Rbuildignore
+.RData
+.Rhistory
 *.Rproj
 
 # Windows image file caches
